@@ -727,8 +727,8 @@ input[type=button] {
   .faq p {
     font-size: .875em;
     line-height: 1.125;
-    }
   }
+}
 
 @media only screen and (min-width: 1200px) {
   /*Desktop styles here*/
@@ -755,7 +755,7 @@ input[type=button] {
     line-height: 1.333;
   }
    
-  /* Hero*/
+  /* Hero */
   .hero-area h1 {
     font-size: 3.75em;
     width: 80%;
