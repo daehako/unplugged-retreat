@@ -544,7 +544,6 @@ input[type=button] {
   }
 
   /* Header */
-
   header {
     justify-content: space-around;
     padding: 33px 0;
@@ -598,6 +597,7 @@ input[type=button] {
   }
 
   /* Features */
+
   .features h2 {
     margin-bottom: 20px;
   }
@@ -639,7 +639,6 @@ input[type=button] {
   }
 
   /* Footer */
-
   footer .content-wrapper {
     width: 65%;
     margin: 100px 0;
